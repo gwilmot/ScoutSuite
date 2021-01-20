@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.8.7-slim
 
 LABEL maintainer="Jason Ross <jason.ross@nccgroup.com>"
 
