@@ -66,3 +66,5 @@ oci>=2.2.4
 
 # Kubernetes SDK
 kubernetes
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
